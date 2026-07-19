@@ -8,7 +8,7 @@ This project analyzes the performance of a fashion and beauty supply chain using
 - Tableau
 
 ## Dataset
-Supply Chain Dataset (Kaggle)
+Supply Chain Dataset (Kaggle) - https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis
 
 ## Business Questions
 - Which SKUs generate the highest revenue?
